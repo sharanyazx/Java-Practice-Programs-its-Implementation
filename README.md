@@ -1,4 +1,4 @@
-# JAVA_PROGRAM_LIST
+# List of Programs
 
 ````
 1.What is JDK, JRE, JVM ?
@@ -568,4 +568,121 @@ Leetcode questions total -> Queue - 47 Questions , Easy - 7, Medium - 20, Hard â
 21.	Print a hollow square pattern using nested loops
 22.	Convert a time duration in minutes to hours and minutes.
 23.	Solve a quadratic equation using switch-case for the discriminant
+````
+##Basic Binary Tree Operations:
+
+````
+Implement a binary tree using nodes and classes.
+Insert an element into a binary tree.
+Delete a node in a binary tree.
+Inorder traversal of a binary tree.
+Preorder traversal of a binary tree.
+Postorder traversal of a binary tree.
+Level order traversal of a binary tree (Breadth-First Search).
+Find the height of a binary tree.
+Count the number of nodes in a binary tree.
+Check if a binary tree is empty.
+Find the minimum and maximum values in a binary tree.
+Search for an element in a binary tree.
+Find the depth of a node in a binary tree.
+Find the ancestors of a node in a binary tree.
+Find the lowest common ancestor (LCA) of two nodes.
+Mirror a binary tree.
+Create a binary tree from an inorder and preorder traversal.
+Create a binary tree from an inorder and postorder traversal.
+Find the sum of all nodes in a binary tree.
+Find the diameter of a binary tree.
+````
+
+##Advanced Binary Tree Operations:
+
+````
+Convert a binary tree to a doubly linked list (inorder).
+Convert a binary tree to its sum tree (where each node is replaced by the sum of its left and right subtrees).
+Check if a binary tree is balanced.
+Check if a binary tree is a Binary Search Tree (BST).
+Print all the ancestors of a node in a binary tree.
+Print all paths from the root to the leaves.
+Find the kth smallest element in a binary search tree.
+Find the kth largest element in a binary search tree.
+Find if a binary tree is symmetric (mirror image of itself).
+Find the depth of the binary search tree.
+Print nodes at distance k from a given node.
+Serialize and deserialize a binary tree.
+Check if two binary trees are identical.
+Check if a binary tree is a full binary tree.
+Check if a binary tree is a perfect binary tree.
+Check if a binary tree is a complete binary tree.
+Count the number of leaf nodes in a binary tree.
+Count the number of internal nodes in a binary tree.
+Find the level of the node with a given value.
+Print boundary nodes of a binary tree.
+Traversal and Search Algorithms:
+Implement iterative inorder traversal using a stack.
+Implement iterative preorder traversal using a stack.
+Implement iterative postorder traversal using two stacks.
+Find the maximum width of a binary tree.
+Print all nodes at a given level using level order traversal.
+Reverse level order traversal of a binary tree.
+Perform an inorder traversal without recursion.
+Perform a preorder traversal without recursion.
+Perform a postorder traversal without recursion.
+Implement a spiral (zigzag) level order traversal.
+Find the vertical sum of a binary tree.
+Print the nodes at the vertical distance of a binary tree.
+Print the diagonal traversal of a binary tree.
+Find the sum of all left leaves in a binary tree.
+Find the sum of all right leaves in a binary tree.
+Perform an inorder traversal of a binary search tree to print all elements in sorted order.
+Perform a preorder traversal of a binary search tree to search for an element.
+Print the leaf nodes of a binary tree.
+Print the internal nodes of a binary tree.
+Find the ancestor of a node in a binary search tree.
+Binary Tree Problems on Specific Traversals:
+Implement depth-first search (DFS) in a binary tree.
+Implement breadth-first search (BFS) in a binary tree.
+Find the maximum path sum in a binary tree.
+Find the path with the maximum sum from root to leaf.
+Check if a binary tree is a binary search tree using inorder traversal.
+Find the sum of all nodes in a binary search tree.
+Find the level of the first common ancestor of two nodes.
+Print the nodes of a binary tree in reverse level order.
+Print the boundary of the binary tree (left boundary, leaves, right boundary).
+Find the sum of nodes at each level of a binary tree.
+````
+
+## Advanced Binary Tree Algorithms:
+
+````
+Perform a tree rotation in an AVL tree.
+Find the "deepest node" in a binary tree.
+Convert a binary tree into a doubly linked list (in preorder).
+Create a balanced binary search tree from a sorted array.
+Create a balanced binary tree from a sorted linked list.
+Implement a binary search tree (BST) from scratch.
+Implement insertion and deletion operations in a BST.
+Find the lowest common ancestor (LCA) in a binary search tree.
+Implement a binary tree to a binary search tree conversion.
+Implement a balanced binary search tree (AVL Tree).
+Implement rotation operations (left and right) in AVL trees.
+Check if a binary tree is an AVL tree (balance factor check).
+Implement the heapify operation for a binary heap.
+Convert a binary tree into a max heap.
+Convert a binary tree into a min heap.
+Perform heap sort using a binary heap.
+Implement heap insertion and heap deletion operations.
+Perform a binary tree transformation into a doubly linked list.
+Implement a binary tree traversal for finding the minimum path sum.
+Implement a threaded binary tree (for fast in-order traversal).
+Binary Search Tree Problems:
+Insert a node into a binary search tree.
+Delete a node from a binary search tree.
+Find the inorder predecessor and inorder successor of a given node in a BST.
+Find the LCA (Lowest Common Ancestor) of two nodes in a BST.
+Find the height of a binary search tree.
+Check if a given sequence of operations is valid in a binary search tree.
+Find the kth largest element in a binary search tree.
+Find if a binary search tree is a valid BST (inorder traversal check).
+Convert a binary search tree into a sorted doubly linked list.
+Find the diameter of a binary search tree.
 ````
