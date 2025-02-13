@@ -569,7 +569,7 @@ Leetcode questions total -> Queue - 47 Questions , Easy - 7, Medium - 20, Hard â
 22.	Convert a time duration in minutes to hours and minutes.
 23.	Solve a quadratic equation using switch-case for the discriminant
 ````
-##Basic Binary Tree Operations:
+## Basic Binary Tree Operations:
 
 ````
 Implement a binary tree using nodes and classes.
@@ -594,7 +594,7 @@ Find the sum of all nodes in a binary tree.
 Find the diameter of a binary tree.
 ````
 
-##Advanced Binary Tree Operations:
+## Advanced Binary Tree Operations:
 
 ````
 Convert a binary tree to a doubly linked list (inorder).
