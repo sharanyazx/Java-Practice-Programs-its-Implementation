@@ -650,6 +650,108 @@ Print the nodes of a binary tree in reverse level order.
 Print the boundary of the binary tree (left boundary, leaves, right boundary).
 Find the sum of nodes at each level of a binary tree.
 ````
+```
+01.String Declaration and Initialization
+02.Check if a String is Empty
+03.Concatenate Two Strings
+04.Find the Length of a String
+05.Convert String to Uppercase
+06.Convert String to Lowercase
+07.Convert a String to Character Array
+08.Check if Two Strings are Equal
+09.Compare Two Strings Lexicographically
+10.String to Integer Conversion (ParseInt)
+11.Integer to String Conversion (ValueOf)
+12.Substring Extraction
+13.Trim Whitespaces from String
+14.String Contains Substring
+15.Check if a String Starts with a Specific Prefix
+16.Check if a String Ends with a Specific Suffix
+17.Replace a Substring in a String
+18.Find the Index of a Character in a String
+19.Find the Last Index of a Character in a String
+20.Convert a String to a Byte Array
+21.Split a String into an Array
+22.Join an Array of Strings
+23.Convert String to ArrayList
+24.Check if a String is Palindrome
+25.Find the Frequency of a Character in a String
+26.Count the Number of Words in a String
+27.Reverse a String
+28.Check if Two Strings are Anagrams
+29.Find the First Non-Repeated Character
+30.Count Vowels and Consonants in a String
+31.Remove Duplicate Characters in a String
+32.Convert a String to CamelCase
+33.Remove Punctuation from String
+34.Find the Longest Word in a String
+35.Find the Shortest Word in a String
+36.String Compression (Run-Length Encoding)
+37.Check if a String is a Valid Number
+38.Count the Occurrences of a Substring in a String
+39.Remove All Occurrences of a Character from String
+40.Check if a String is a Valid Palindrome (Ignoring Spaces)
+41.Count the Number of Digits in a String
+42.Swap Case in a String
+43.Replace All Whitespaces in a String
+44.Convert a String to Title Case
+45.Count the Number of Words Starting with a Specific Letter
+46.Count the Number of Sentences in a String
+47.Check if a String Contains Only Digits
+48.Extract Digits from a String
+49.Reverse the Words in a String
+50.Remove Extra Spaces in a String
+51.Implement a Simple String Encryption/Decryption Algorithm
+52.Count the Number of Substrings in a String
+53.Find the Longest Palindromic Substring
+54.Check if Two Strings are Rotations of Each Other
+55.Generate All Substrings of a String
+56.Find the Longest Common Prefix of Strings
+57.Check if a String is a Valid Anagram of Another String
+58.Count Palindromic Substrings in a String
+59.Check if a String is a Valid Anagram of a Palindrome
+60.Perform String Matching Using Knuth-Morris-Pratt Algorithm
+61.Implement Boyer-Moore String Matching Algorithm
+62.Implement a Simple Trie Data Structure for String Matching
+63.Remove Characters from String that are Present in Another String
+64.Find the Shortest Unique Prefix of a String
+65.Find All Permutations of a String
+66.Implement Regular Expression Matching (Pattern Matching)
+67.Find the Maximum Occurring Character in a String
+68.Find the Common Characters Between Two Strings
+69.Remove All Digits from a String
+70.Find the Number of Substrings that Start and End with the Same Character
+71.Check if a String is an Isomorphic String
+72.Check if a String Contains Only Alphabetic Characters
+73.Check if a String is a Valid Palindrome (with Non-Alphanumeric Characters)
+74.Find the First Repeating Character in a String
+75.Generate All Possible Palindromes in a String
+76.Implement Z-Algorithm for String Matching
+77.Find the Longest Common Subsequence of Two Strings
+78.Find the Minimum Number of Operations to Convert One String to Another (Levenshtein Distance)
+79.Count the Number of Anagram Pairs in a String
+80.Check if a String is a Valid Parentheses Expression
+81.Generate the Longest Repeated Substring in a String
+82.Find the Smallest Window that Contains All Characters of Another String
+83.Detect and Remove Cyclic Redundancy in Strings
+84.Check if a String is a Valid Palindrome with Limited Operations
+85.Find the Minimum Window Substring Containing All Characters from Another String
+86.Sort the Characters of a String in Lexicographical Order
+87.Find the Longest Increasing Subsequence of Characters in a String
+88.Count the Number of Occurrences of a Pattern Using a Sliding Window
+89.Find the Smallest Number of Characters to Remove to Make a String a Palindrome
+90.Implement a String Matcher Using Rabin-Karp Algorithm
+91.Implement a Suffix Tree for Efficient String Matching
+92.Calculate the Longest Palindromic Subsequence of a String
+93.Find All Anagrams of a String in Another String
+94.Implement an Efficient String Search Algorithm (Aho-Corasick)
+95.Check if a String Contains Balanced Parentheses
+96.Find the Length of the Longest Substring Without Repeating Characters
+97.Count the Number of Ways to Partition a String into Valid Palindromes
+98.Find the Maximum Number of Distinct Substrings in a String
+99.Find the Number of Ways to Rearrange a String to Form a Palindrome
+100.Convert a String to an Integer (Implementing a Custom ParseInt)
+```
 
 ## Advanced Binary Tree Algorithms:
 
