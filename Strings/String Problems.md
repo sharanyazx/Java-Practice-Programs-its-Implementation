@@ -203,6 +203,275 @@ public class Main
 12345
 ```
 
+# 12.Substring Extraction
+``` java []
+public class Main
+{
+	public static void main(String[] args) {
+	     String name1="Sharanya";
+	    
+	    System.out.println(name1.substring(0,5)); 
+   
+
+		
+	}
+}
+```
+## Output
+```
+Shara
+
+```
+# 13.Trim Whitespaces from String
+``` java []
+public class Main
+{
+	public static void main(String[] args) {
+	     String name1="  Sharanya  ";
+	    System.out.println(name1); 
+	    System.out.println(name1.trim()); 
+   
+
+		
+	}
+}
+```
+## Output
+```
+  Sharanya  
+Sharanya
+
+```
+# 14.String Contains Substring
+``` java []
+public class Main
+{
+	public static void main(String[] args) {
+	     String name1=" hello, Sharanya  ";
+	    System.out.println(name1.contains("hello")); 
+	    System.out.println(name1.contains("bye")); 
+   
+
+		
+	}
+}
+```
+## Output
+```
+true
+false
+
+```
+# 15.Check if a String Starts with a Specific Prefix
+``` java []
+```
+## Output
+```
+```
+# 16.Check if a String Ends with a Specific Suffix
+``` java []
+```
+## Output
+```
+```
+# 17.Replace a Substring in a String
+``` java []
+```
+## Output
+```
+```
+# 18.Find the Index of a Character in a String
+``` java []
+```
+## Output
+```
+```
+# 19.Find the Last Index of a Character in a String
+``` java []
+```
+## Output
+```
+```
+# 20.Convert a String to a Byte Array
+``` java []
+```
+## Output
+```
+```
+# 21.Split a String into an Array
+``` java []
+```
+## Output
+```
+```
+# 22.Join an Array of Strings
+``` java []
+```
+## Output
+```
+```
+# 23.Convert String to ArrayList
+``` java []
+```
+## Output
+```
+```
+# 24.Check if a String is Palindrome
+``` java []
+```
+## Output
+```
+```
+# 25.Find the Frequency of a Character in a String
+``` java []
+```
+## Output
+```
+```
+# 26.Count the Number of Words in a String
+``` java []
+```
+## Output
+```
+```
+# 27.Reverse a String
+``` java []
+```
+## Output
+```
+```
+# 28.Check if Two Strings are Anagrams
+``` java []
+```
+## Output
+```
+```
+#
+``` java []
+```
+## Output
+```
+```
+#
+``` java []
+```
+## Output
+```
+```
+#
+``` java []
+```
+## Output
+```
+```
+#
+``` java []
+```
+## Output
+```
+```
+#
+``` java []
+```
+## Output
+```
+```
+#
+``` java []
+```
+## Output
+```
+```
+#
+``` java []
+```
+## Output
+```
+```
+#
+``` java []
+```
+## Output
+```
+```
+#
+``` java []
+```
+## Output
+```
+```
+#
+``` java []
+```
+## Output
+```
+```
+#
+``` java []
+```
+## Output
+```
+```
+#
+``` java []
+```
+## Output
+```
+```
+#
+``` java []
+```
+## Output
+```
+```
+#
+``` java []
+```
+## Output
+```
+```
+#
+``` java []
+```
+## Output
+```
+```
+#
+``` java []
+```
+## Output
+```
+```
+#
+``` java []
+```
+## Output
+```
+```
+#
+``` java []
+```
+## Output
+```
+```
+#
+``` java []
+```
+## Output
+```
+```
+#
+``` java []
+```
+## Output
+```
+```
+#
+``` java []
+```
+## Output
+```
+```
 #
 ``` java []
 ```
