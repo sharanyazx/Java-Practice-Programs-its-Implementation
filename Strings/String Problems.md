@@ -276,9 +276,20 @@ false
 ```
 # 17.Replace a Substring in a String
 ``` java []
+
+
+public class Main
+{
+	public static void main(String[] args) { 
+	    String name ="My name is Sharanya";
+		System.out.println(name.replace("Sharanya","Sharan"));
+	}
+}
 ```
 ## Output
 ```
+My name is Sharan
+
 ```
 # 18.Find the Index of a Character in a String
 ``` java []
